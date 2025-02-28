@@ -1,6 +1,6 @@
 Hi, I’m Victor Rodriguez (@rodriguez-va), but many friends call me Bix.
 
-I am a postdoctoral scholar at UC Santa Barbara working string theory, quantum field theory, and quantum gravity. 
+I am a postdoctoral scholar at UC Santa Barbara working on string theory, quantum field theory, and quantum gravity. 
 Before that I was a postdoc at Princeton University. 
 I obtained my PhD in theoretical physics at Harvard University in 2021. 
 
